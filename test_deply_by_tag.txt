@@ -7,4 +7,5 @@ test 4
 test5
 test dev
 test dev2 merge
-test 10000
+test dev2
+dev 10000
